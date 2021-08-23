@@ -1,6 +1,14 @@
+# filecoin-tipset-visualizer
+
+## Status
+
+This repository is in a **frozen** state. It is not being maintained or kept in sync with the libraries it depends on. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this library should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
+
+---
+
 > agency enterprise filecoin-explorer-lotus
 
-# Usage
+## Usage
 
 First, you need lotus up and running. Follow [these instructions](https://docs.lotu.sh/en+install-lotus-ubuntu).
 
@@ -32,7 +40,7 @@ $ yarn install
 $ yarn start
 ```
 
-# License
+## License
 
 [LICENSE](LICENSE)
 
